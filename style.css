@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: inherit;
+   font-weight: 300;     
+}
+#APP{
+    width:100%;
+    height:800px;
+    background-color: antiquewhite;
+}
+#GAMES{
+    width:100%;
+    height:800px;
+    background-color:aquamarine ;
+}
+#CHATBOT{
+    width:100%;
+    height:800px;
+    background-color:beige ;
+}
+.line{
+    height:10px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
